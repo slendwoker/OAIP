@@ -1,0 +1,8 @@
+& D:/Python/python.exe "c:/Users/yarov/OneDrive/Рабочий стол/python/zad3 lab14.py"
+
+& D:/Python/python.exe "c:/Users/yarov/OneDrive/Рабочий стол/python/zad3 lab14.py"
+
+& D:/Python/python.exe "c:/Users/yarov/OneDrive/Рабочий стол/python/zad3 lab14.py"
+
+& D:/Python/python.exe "c:/Users/yarov/OneDrive/Рабочий стол/python/zad3 lab14.py"
+
